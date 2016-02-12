@@ -1,4 +1,4 @@
-LOCAL_PATH := device/lge/l70pn
+LOCAL_PATH := device/lge/l70pds
 
 $(shell mkdir -p $(OUT)/obj/KERNEL_OBJ/usr)
 
